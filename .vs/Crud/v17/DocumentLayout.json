@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\crud\\crud\\crud\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|solutionrelative:crud\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\crud\\crud\\crud\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\crud\\crud\\crud\\repositories\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|solutionrelative:crud\\repositories\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\crud\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\crud\\crud\\crud\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|solutionrelative:crud\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\crud\\crud\\crud\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|solutionrelative:crud\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\crud\\crud\\crud\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\crud\\crud\\crud\\repositories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434B15E4-8F23-43C3-BA57-8C41C1D1E987}|Crud\\Crud.csproj|solutionrelative:crud\\repositories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\.gitignore",
+              "RelativeDocumentMoniker": "Crud\\.gitignore",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\.gitignore",
+              "RelativeToolTip": "Crud\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-26T15:37:10.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Models\\Car.cs",
+              "RelativeToolTip": "Crud\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:32:56.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Repositories\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "Crud\\Repositories\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Repositories\\BrandRepository.cs",
+              "RelativeToolTip": "Crud\\Repositories\\BrandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:41:57.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAA0wFUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:58:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Repositories\\DbHelper.cs",
+              "RelativeDocumentMoniker": "Crud\\Repositories\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Repositories\\DbHelper.cs",
+              "RelativeToolTip": "Crud\\Repositories\\DbHelper.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:29:25.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Program.cs",
+              "RelativeDocumentMoniker": "Crud\\Program.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Program.cs",
+              "RelativeToolTip": "Crud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:27:04.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Crud\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Crud\\Repositories\\CarRepository.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAawFgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:14:12.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Crud\\Crud\\Crud\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswEgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:14:02.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
